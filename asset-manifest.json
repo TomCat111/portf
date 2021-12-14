@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portf.github.io/portf/static/css/main.9185d65b.css",
-    "main.js": "/portf.github.io/portf/static/js/main.c41fbbe2.js",
-    "static/media/image.png": "/portf.github.io/portf/static/media/image.57b4e4a6eb6aefcd30eb.png",
-    "index.html": "/portf.github.io/portf/index.html",
-    "main.9185d65b.css.map": "/portf.github.io/portf/static/css/main.9185d65b.css.map",
-    "main.c41fbbe2.js.map": "/portf.github.io/portf/static/js/main.c41fbbe2.js.map"
+    "main.css": "/portf/static/css/main.9185d65b.css",
+    "main.js": "/portf/static/js/main.bc03a3a1.js",
+    "static/media/image.png": "/portf/static/media/image.57b4e4a6eb6aefcd30eb.png",
+    "index.html": "/portf/index.html",
+    "main.9185d65b.css.map": "/portf/static/css/main.9185d65b.css.map",
+    "main.bc03a3a1.js.map": "/portf/static/js/main.bc03a3a1.js.map"
   },
   "entrypoints": [
     "static/css/main.9185d65b.css",
-    "static/js/main.c41fbbe2.js"
+    "static/js/main.bc03a3a1.js"
   ]
 }
